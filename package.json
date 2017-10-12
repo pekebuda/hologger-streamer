@@ -14,6 +14,12 @@
     "streamer"
   ],
   "dependencies": {
+    "handlebars": "^4.0.10",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "chai": "1.x.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,6 +29,9 @@
     "url": "https://github.com/datary/hologger-streamer"
   },
   "bugs": {
-    "url": "https://github.com/datary/hologger-streamer"
+    "url": "https://github.com/datary/hologger-streamer/issues"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
   }
 }
