@@ -18,8 +18,8 @@
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
-    "chai": "1.x.x"
+    "mocha": "^1.0.0",
+    "chai": "^1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
